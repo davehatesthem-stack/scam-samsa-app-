@@ -1,4 +1,4 @@
-import 'package:dasturnomi/src/features/home/repository/home_repository.dart';
+import 'package:dasturnomi/src/features/admin/admin_home/repository/home_repository.dart';
 import 'package:material_ui/material_ui.dart';
 
 enum HomeStatus { loading, success, error }

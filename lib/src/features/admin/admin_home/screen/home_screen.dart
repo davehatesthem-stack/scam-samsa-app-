@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:dasturnomi/src/core/const/appcolors.dart';
 import 'package:dasturnomi/src/core/model/samsa_model.dart';
-import 'package:dasturnomi/src/features/home/provider/home_provider.dart';
-import 'package:dasturnomi/src/features/home/widgets/TopAppBar.dart';
+import 'package:dasturnomi/src/features/admin/admin_home/provider/home_provider.dart';
+import 'package:dasturnomi/src/features/admin/admin_home/widgets/TopAppBar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:http/http.dart' as http;

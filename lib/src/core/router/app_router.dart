@@ -1,4 +1,4 @@
-import 'package:dasturnomi/src/features/home/screen/home_screen.dart';
+import 'package:dasturnomi/src/features/admin/admin_home/screen/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class AppPages {
